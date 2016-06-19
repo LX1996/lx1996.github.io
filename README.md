@@ -1,8 +1,8 @@
-# Yummy Jekyll Theme
+# Guolz Blog
 
 A Simple, Bootstrap Based Theme. Especially for developers who like to show their projects on website and like to take notes. There are also some magical features to discover. 
 
-## [Live Demo](http://dongchuan.github.io/)
+## [Live Demo](http://JLUNeverMore.github.io/)
 
 Open issues if you find bugs or even have trouble installing jekyll or dependencies. :D
 
