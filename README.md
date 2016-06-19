@@ -1,62 +1,19 @@
-# end2end
+# The Plain v1
 
-[![Build Status](https://travis-ci.org/nandomoreirame/end2end.svg?branch=master)](https://travis-ci.org/nandomoreirame/end2end)
+A minimalist Jekyll theme that focues on writing matters, made with passion for simplicity. A great, white clean theme for personal blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool **Jekyll layout** by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML code on-the-fly. Typeface used is [Fira Sans font](https://github.com/mozilla/Fira) by Mozilla.
 
-Clean Jekyll theme
+[**Demo**](http://heiswayi.github.io/the-plain/)
 
-> :warning:
-  This theme requires ruby and rubygems installed
+You may refer [this post here](http://heiswayi.github.io/the-plain.html) for how-to-use instructions.
 
-* [x] Clean layout
-* [x] Resposive layout
-* [x] Preprocessor SASS
-* [x] CSS minified
-* [x] Pagination
-* [x] Syntax highlight
-* [x] Author config
-* [x] Comments with Disqus
-* [ ] Search posts
-* [ ] Share posts
+### screenshot
 
----
+![Screenshot](http://i.imgur.com/zAkZq0d.png)
 
-### Start in 4 steps
+### Credits
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/end2end.git`
-2. Enter the folder: `cd end2end/`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve`
+This theme is based on Leonard Lamprecht's [Jekyll theme](https://github.com/leo/leo.github.io).
 
-Access, [localhost:4000/end2end](http://localhost:4000/end2end)
+### License
 
-### Deploy in Github pages in 2 steps
-
-1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
-2. Run `rake` or `rake publish` for build and publish on Github
-
----
-
-### Using Rake tasks
-
-* Create a new page: `rake page name="contact.md"`
-* Create a new post: `rake post title="TITLE OF THE POST"`
-
----
-
-### Demo and Download
-
-[Demo](http://nandomoreira.me/end2end/)
-[Download](https://github.com/nandomoreirame/end2end/archive/master.zip)
-
-![end2end - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
-
-> :warning:
-  Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `source/_layouts/default.html`
-
-Enjoy :yum:
+[MIT](LICENSE.md)
