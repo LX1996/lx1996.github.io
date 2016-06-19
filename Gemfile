@@ -1,7 +1,13 @@
-source 'https://rubygems.org'
+# If you have OpenSSL installed, we recommend updating
+# the following line to use "https"
+source 'http://rubygems.org'
 
-gem 'rough'
-gem 'jekyll-paginate'
-gem 'jekyll-geo-pattern'
-gem 'kramdown'
-gem 'jekyll-github-metadata'
+group :development do
+  gem 'rake', '~>10.5'
+  gem 'sass', '~>3.4'
+  gem 'jekyll', '~> 3'
+  gem 'jekyll-paginate', group: [:jekyll_plugins]
+  gem 'pygments.rb', group: [:jekyll_plugins]
+  gem 'jekyll-compose', group: [:jekyll_plugins]
+  gem 'kramdown', group: [:jekyll_plugins]
+end
