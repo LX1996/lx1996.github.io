@@ -31,7 +31,7 @@ Content:
 key words: logistic regression, classification, decision boundary, convex function, One-vs-all
 
 
-![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192030519-812563713.png)
+![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192030519-812563713.png=100x)
 
 ![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192042019-93741073.png)
 ![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192054848-888347764.png)
@@ -42,6 +42,7 @@ key words: logistic regression, classification, decision boundary, convex functi
 ![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192238551-194444970.png)
 ![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192250035-1875959994.png)
 ![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192302598-1542727721.png)
+
 **2.6 Multiclass classification problem**
 
 现实中也常遇到多分类问题(multiclass classification problem)，如判断手写的数字是0~9中的哪一个就是一个有10类的问题。多分类学习的基本思路是“拆解法”，即将多分类任务拆为若干个二分类任务求解。具体来说，先对问题进行拆分，然后为拆分出的每个二分类任务训练一个分类器（也就是h(x)）；在预测时，对这些分类器的预测结果进行集成。
