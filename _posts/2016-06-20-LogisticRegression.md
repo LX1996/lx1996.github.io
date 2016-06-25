@@ -31,7 +31,7 @@ Content:
 key words: logistic regression, classification, decision boundary, convex function, One-vs-all
 
 
-![image](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192030519-812563713.png =1000x)
+![](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192030519-812563713.png =1000x)
 
 ![image](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192042019-93741073.png =1000x)
 ![image](http://images2015.cnblogs.com/blog/788978/201603/788978-20160328192054848-888347764.png =1000x)
