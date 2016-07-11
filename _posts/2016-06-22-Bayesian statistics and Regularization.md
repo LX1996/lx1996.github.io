@@ -2,6 +2,8 @@
 title: Bayesian statistics and Regularization笔记
 updated: 2016-06-22 16:40
 ---
+__author__ = Guolz
+
 Content
 
 　　3. Bayesian statistics and Regularization. 
