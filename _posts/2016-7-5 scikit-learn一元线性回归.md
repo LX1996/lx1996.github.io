@@ -1,6 +1,6 @@
 ---
 title: 用scikit-learn求解一元线性回归
-updated: 2016-07-25 10:50
+updated: 2016-07-10 10:24
 ---
 
 scikit-learn的一元线性回归
