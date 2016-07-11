@@ -1,5 +1,5 @@
 ---
-title: A few useful things to know about machine learning
+title: 一点线性代数知识
 updated: 2016-06-25 21:38
 ---
 
