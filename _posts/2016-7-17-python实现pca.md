@@ -27,7 +27,7 @@ PCA()函数有两个参数，第一个参数是用于进行pca操作的数据集
     	return lowDDataMat, reconMat
    
 效果图：
-![image](/Users/Guolz/GitHub/JLUNeverMore.github.io/_posts/pca_2.png)
+![image](http://ww2.sinaimg.cn/mw690/dfec1f11gw1f5yy07zp65j20gf0cptaw.jpg)
 
 图1: 原始数据集（三角形点表示）及第一主成分(圆形点)表示
 
@@ -67,7 +67,7 @@ PCA()函数有两个参数，第一个参数是用于进行pca操作的数据集
 	plt.show()
 	
 	
-![image](/Users/Guolz/GitHub/JLUNeverMore.github.io/_posts/pca_1.png)
+![image](http://ww2.sinaimg.cn/mw690/dfec1f11gw1f5yy07j6f9j20hd0d1t9a.jpg)
 
 上图为前20个主成分占总方差的百分比。可以看出，大部分方差都包含在前面的几个主成分中，舍弃后面的主成分并不会损失太多的信息。如果保留前六个主成分，则数据集可以从590个特征压缩成6个特征，大概实现了100:1的压缩。
 
